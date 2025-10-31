@@ -6,7 +6,6 @@ Arabic localization will be added to the game soon.
 
 ### How to enable Arabic
 - Once available, in game settings select: Arabic (ar_SA).
-- Save settings and restart the game if required.
 
 ### Technical notes
 - Translation files will be stored in UTF-8 to ensure correct Arabic rendering.

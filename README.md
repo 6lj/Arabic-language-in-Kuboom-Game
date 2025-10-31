@@ -8,9 +8,7 @@ Arabic localization will be added to the game soon.
 - Once available, in game settings select: Arabic (ar_SA).
 
 ### Technical notes
-- Translation files will be stored in UTF-8 to ensure correct Arabic rendering.
-- The key-value format will be: `key,value`.
 - Dictionaries are being prepared in ODS spreadsheets and can be edited with Microsoft Excel or LibreOffice Calc.
-- When exporting, use CSV (UTF-8) and convert to `key,value` format before import.
+
 
 
